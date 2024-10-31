@@ -1,1 +1,3 @@
-# Berlin-200-Analysis-TDS
+Leveraged Python's requests library and GitHub's GraphQL API to fetch Berlin-based developers, processing data through pandas for cleaning and implementing smart rate limiting to avoid API throttling.
+Despite the common belief that more public repos lead to higher follower counts, the data revealed a surprisingly weak correlation (0.017), suggesting quantity isn't the key to GitHub popularity.
+Focus on maintaining fewer, high-quality repositories with comprehensive documentation rather than creating many repositories, as our analysis shows quality over quantity resonates more with the developer community.
